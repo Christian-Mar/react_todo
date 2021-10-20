@@ -1,0 +1,23 @@
+h3 {
+  color: white;
+}
+
+input {
+  width: 600px;
+}
+
+button {
+  background-color: black;
+  color: burlywood;
+  margin: 0 1rem;
+}
+
+li {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+}
